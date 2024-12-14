@@ -20,9 +20,9 @@ You can check out my LeetCode profile [here](https://leetcode.com/u/xcT7o8MoNe/)
 * 20:  Valid Parantheses
 * 155: Min Stack
 
-# Binary Search:
+## Binary Search:
 * 704: Binary Search
 * 74: Search a 2D Matrix
 
-# Sliding Window:
+## Sliding Window:
 * 121: Best Time to Buy and Sell Stock
