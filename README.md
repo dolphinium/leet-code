@@ -22,7 +22,8 @@ You can check out my LeetCode profile [here](https://leetcode.com/u/xcT7o8MoNe/)
 
 ## Binary Search:
 * 704: Binary Search
-* 74: Search a 2D Matrix
+* 74:  Search a 2D Matrix
 
 ## Sliding Window:
 * 121: Best Time to Buy and Sell Stock
+* 3:   Longest Substring Without Repeating Characters 
