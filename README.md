@@ -27,3 +27,6 @@ You can check out my LeetCode profile [here](https://leetcode.com/u/xcT7o8MoNe/)
 ## Sliding Window:
 * 121: Best Time to Buy and Sell Stock
 * 3:   Longest Substring Without Repeating Characters 
+
+## Linked List:
+* 206: Reverse Linked List
