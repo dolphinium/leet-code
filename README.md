@@ -33,3 +33,6 @@ You can check out my LeetCode profile [here](https://leetcode.com/u/d0lphinium/)
 * 21 : Merge Two Sorted Lists
 * 141: Linked List Cycle
 * 143: Reorder List
+
+## Trees:
+* 226: Invert Binary Tree
