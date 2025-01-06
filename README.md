@@ -36,3 +36,4 @@ You can check out my LeetCode profile [here](https://leetcode.com/u/d0lphinium/)
 
 ## Trees:
 * 226: Invert Binary Tree
+* 104: Maximum Depth of Binary Tree
